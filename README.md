@@ -10,4 +10,13 @@ Este proyecto implementa un simulador de atención al cliente en una sucursal ba
 - **Cola (FIFO)**: gestiona clientes en orden de llegada.  
 - **Pila (LIFO)**: guarda el historial de clientes atendidos.  
 
-## 📂 Estructura del repositorio
+
+## ⚙️ Requisitos
+- Java JDK 11 o superior
+- Consola o terminal para ejecutar el programa
+
+## ▶️ Compilación
+Desde la carpeta raíz del proyecto:
+```bash
+javac src/*.java
+
